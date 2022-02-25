@@ -4,13 +4,13 @@ Policy search algorithm for controling a Cart Pole.
 
 <br />
 
-## Task:
+#### Task:
 
 The goal is to design a control policy to keep a Cart Pole leveled
 
 
 
-## Solution:
+#### **Solution:**
 
 We assume a simple linear policy. We use a simple algorithm to find the optimal policy by brute-force **policy search**.
 
