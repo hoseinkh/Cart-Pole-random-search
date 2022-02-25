@@ -1,6 +1,6 @@
 # Control of Cart Pole with a Policy Search
 
-
+Policy search algorithm for controling a Cart Pole.
 
 ## Task:
 
