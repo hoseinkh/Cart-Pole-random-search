@@ -2,6 +2,8 @@
 
 Policy search algorithm for controling a Cart Pole.
 
+<br />
+
 ## Task:
 
 The goal is to design a control policy to keep a Cart Pole leveled
