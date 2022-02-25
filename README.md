@@ -17,8 +17,9 @@ The general form of the cart-pole is shown in the following figure.
 
 
 <p float="left">
-  <img src="/images/Fig-project/CartPole_model.png" width="450" />
+  <img src="/figs/CartPole_model.png" width="450" />
 </p>
+
 
 
 
@@ -29,8 +30,9 @@ The states are shown in this figure as well. So we have four features to describ
 So the policy is as follows:
 
 <p float="left">
-  <img src="/images/Fig-project/CartPole_policy_random_search.png" width="450" />
+  <img src="/figs/CartPole_policy_random_search.png" width="450" />
 </p>
+
 
 So the goal is to find the optimal weight $W$.
 
@@ -41,8 +43,9 @@ So the goal is to find the optimal weight $W$.
 Now, we first run a simple random policy. Ofcourse we expect it fail immediately!
 
 <p float="left">
-  <img src="/images/Fig-project/CartPole_a_random_policy.gif" width="450" />
+  <img src="/figs/CartPole_a_random_policy.gif" width="450" />
 </p>
+
 
 
 
@@ -55,18 +58,18 @@ In order to find the optimal policy, we search through different random policies
 
 
 <p float="left">
-  <img src="/images/Fig-project/CartPole_avgtime_random_search.png" width="450" />
+  <img src="/figs/CartPole_avgtime_random_search.png" width="450" />
 </p>
+
 
 
 
 The winner of this policy is tested in the following figure:
 
 <p float="left">
-  <img src="/images/Fig-project/CartPole_optimal_random_search.gif" width="450" />
+  <img src="/figs/CartPole_optimal_random_search.gif" width="450" />
 </p>
 
-<br />
 
-To see the Github repository for this project, see [Github](https://github.com/hoseinkh/Distributed-Optimization-for-Coupled-Market).
+<br />
 
