@@ -1,13 +1,17 @@
----
-title: "Control of Cart Pole with a Policy Search"
-excerpt: "
-**Task:** The goal is to design a control policy to keep a Cart Pole leveled.
-<br />
-**Solution:** We assume a simple linear policy. We use a simple algorithm to find the optimal policy by brute-force **policy search**.
-<br />
-For more information on this project, please see [link](https://hoseinkh.github.io/project/project-410/). To see the Github repository for this project, see [Github](https://github.com/hoseinkh/Distributed-Optimization-for-Coupled-Market).
-"
-collection: project
+# Control of Cart Pole with a Policy Search
+
+
+
+## Task:
+
+The goal is to design a control policy to keep a Cart Pole leveled
+
+
+
+## Solution:
+
+We assume a simple linear policy. We use a simple algorithm to find the optimal policy by brute-force **policy search**.
+
 ---
 
 
