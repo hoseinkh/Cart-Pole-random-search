@@ -1,4 +1,6 @@
-
+###############################################################################
+# For more info, see https://hoseinkh.github.io/
+###############################################################################
 import gym
 import pygame
 import numpy as np
@@ -7,7 +9,6 @@ from gym import wrappers
 import time
 from tqdm import tnrange, tqdm_notebook
 from IPython import display as Idisplay
-
 ################################################################################
 def get_action(s, w):
     return 1 if s.dot(w) > 0 else 0
